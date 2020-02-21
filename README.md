@@ -34,3 +34,9 @@
 > NOTE -  For inference on a video file. Save the video file in the
 > videos directory. The output file for each video will be stored in the
 > output directory.
+
+
+You can checkout the processed video here - 
+
+https://youtu.be/YOCYXb5Qymo
+
